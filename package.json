@@ -1,0 +1,17 @@
+{
+	"name": "Screenwriter",
+	"main": "./frontend/html/main.html",
+	"version": "0.1.0",
+	"window": {
+		"toolbar": false,
+		"width": 816,
+		"height": 660,
+		"icon": "/icon.png"
+	},
+	"dependencies": {
+		"node-webkit-fdialogs": "*",
+		"lodash": "*",
+		"html-pdf": "*",
+		"phantomjs": "*"
+	}
+}
