@@ -1,6 +1,6 @@
 #Ribbon
 ![Screenshot](screenshot.png)
-Ribbon is a free solution to the lack of quality screenwriting applications. It's goal is to be simple and easy to use without a clunky interface. If you want the latest build of Ribbon go [here](http://blockaj.github.io/Ribbon).
+Ribbon is a free solution to the lack of quality screenwriting applications. It's goal is to be simple and easy to use without a clunky interface. If you want the latest build of Ribbon go [here](http://github.com/blockaj/Ribbon/releases).
 ##Table of Contents 
 *   [Intro](#Ribbon)
 *   [Features](#features)
